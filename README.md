@@ -124,3 +124,14 @@ Los favoritos se identifican por dispositivo mediante la cabecera `x-device-id`.
 - **React 18 + Vite** — Frontend
 - **TailwindCSS** — Estilos
 - **Fraunces + Cabinet Grotesk** — Tipografía
+
+## 📱 Capturas de pantalla
+ **Inicio** 
+![Inicio](screenshots/inicio.png)
+
+**Busqueda** 
+![Busqueda](screenshots/busqueda.png)
+
+**Favoritos** 
+![Favoritos](screenshots/favoritos.png)
+
